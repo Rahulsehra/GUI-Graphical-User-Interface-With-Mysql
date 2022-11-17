@@ -8,7 +8,7 @@ patient_age integer (3),
 patient_dob date
 mail varchar(15)
 );
-and te other schema "reg" with table "bed" and insert
+2.and te other schema "reg" with table "bed" and insert
 (
 patient_name Varchar(10),
 ben_id integer(12),
@@ -19,7 +19,7 @@ category varchar(15),
 bed_type varchar(10),
 purpose varchar(10)
 );
-and last one schema "happy" and table "mood" and insert 
+3.and last one schema "happy" and table "mood" and insert 
 (
 first_name Varchar(10),
 last_name varchar(10),
